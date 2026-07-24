@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "01-Flexbox基础-Slidev",
+    "title": "Flexbox基础 - Slidev",
+    "section": "Flex布局",
+    "pdfUrl": "/css-layout/01-Flexbox基础-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "Flexbox基础 - Slidev.pdf"
+  },
+  {
+    "slug": "02-深入理解-Flexbox-Slidev",
+    "title": "深入理解 Flexbox - Slidev",
+    "section": "Flex布局",
+    "pdfUrl": "/css-layout/02-深入理解-Flexbox-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "深入理解 Flexbox - Slidev.pdf"
+  },
+  {
+    "slug": "03-实战-用-Flexbox-优雅实现三栏式布局-Slidev",
+    "title": "实战：用 Flexbox 优雅实现三栏式布局 - Slidev",
+    "section": "Flex布局",
+    "pdfUrl": "/css-layout/03-实战-用-Flexbox-优雅实现三栏式布局-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "实战：用 Flexbox 优雅实现三栏式布局 - Slidev.pdf"
+  },
+  {
+    "slug": "04-精通-Flexbox-从换行到多行对齐-Slidev",
+    "title": "精通 Flexbox：从换行到多行对齐 - Slidev",
+    "section": "Flex布局",
+    "pdfUrl": "/css-layout/04-精通-Flexbox-从换行到多行对齐-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "精通 Flexbox：从换行到多行对齐 - Slidev.pdf"
+  },
+  {
+    "slug": "05-align-self-与-order-给-Flex-子项多一点自由-Slidev",
+    "title": "align-self 与 order：给 Flex 子项多一点自由 - Slidev",
+    "section": "Flex布局",
+    "pdfUrl": "/css-layout/05-align-self-与-order-给-Flex-子项多一点自由-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "align-self 与 order：给 Flex 子项多一点自由 - Slidev.pdf"
+  },
+  {
+    "slug": "06-CSS-Grid-基础概念与心智模型-Slidev",
+    "title": "CSS Grid 基础概念与心智模型 - Slidev",
+    "section": "Grid布局",
+    "pdfUrl": "/css-layout/06-CSS-Grid-基础概念与心智模型-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "CSS Grid 基础概念与心智模型 - Slidev.pdf"
+  },
+  {
+    "slug": "07-深入理解-CSS-Grid-布局中的轨道尺寸与-fr-单位-Slidev",
+    "title": "深入理解 CSS Grid 布局中的轨道尺寸与 fr 单位 - Slidev",
+    "section": "Grid布局",
+    "pdfUrl": "/css-layout/07-深入理解-CSS-Grid-布局中的轨道尺寸与-fr-单位-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "深入理解 CSS Grid 布局中的轨道尺寸与 fr 单位 - Slidev.pdf"
+  },
+  {
+    "slug": "08-深入理解-CSS-网格中的项目定位与跨越-Slidev",
+    "title": "深入理解 CSS 网格中的项目定位与跨越 - Slidev",
+    "section": "Grid布局",
+    "pdfUrl": "/css-layout/08-深入理解-CSS-网格中的项目定位与跨越-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "深入理解 CSS 网格中的项目定位与跨越 - Slidev.pdf"
+  },
+  {
+    "slug": "09-掌握-CSS-Grid-布局-从间距到对齐的精细化控制-Slidev",
+    "title": "掌握 CSS Grid 布局：从间距到对齐的精细化控制 - Slidev",
+    "section": "Grid布局",
+    "pdfUrl": "/css-layout/09-掌握-CSS-Grid-布局-从间距到对齐的精细化控制-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "掌握 CSS Grid 布局：从间距到对齐的精细化控制 - Slidev.pdf"
+  },
+  {
+    "slug": "10-探秘-CSS-Grid-一行代码实现真正的响应式布局-Slidev",
+    "title": "探秘 CSS Grid：一行代码实现真正的响应式布局 - Slidev",
+    "section": "Grid布局",
+    "pdfUrl": "/css-layout/10-探秘-CSS-Grid-一行代码实现真正的响应式布局-Slidev.pdf",
+    "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/Abt9w8NlGi0KJckWOU7cugyVnIb",
+    "file": "探秘 CSS Grid：一行代码实现真正的响应式布局 - Slidev.pdf"
+  }
+]

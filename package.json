@@ -1,0 +1,58 @@
+{
+  "name": "interview-site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "scrape": "node scripts/scrape-feishu.mjs",
+    "generate:content": "node scripts/generate-content.mjs",
+    "generate:javascript": "node scripts/generate-javascript.mjs",
+    "scrape:javascript": "node scripts/scrape-javascript-md.mjs",
+    "scrape:interview-prep": "node scripts/scrape-interview-prep-md.mjs",
+    "scrape:css": "node scripts/scrape-css-md.mjs",
+    "scrape:css-layout": "node scripts/scrape-css-layout-md.mjs",
+    "scrape:html": "node scripts/scrape-html-md.mjs",
+    "scrape:browser": "node scripts/scrape-browser-md.mjs",
+    "scrape:es6": "node scripts/scrape-es6-md.mjs",
+    "scrape:vue": "node scripts/scrape-vue-md.mjs",
+    "scrape:react": "node scripts/scrape-react-md.mjs",
+    "scrape:typescript": "node scripts/scrape-typescript-md.mjs",
+    "scrape:engineering": "node scripts/scrape-engineering-md.mjs",
+    "scrape:cs-basics": "node scripts/scrape-cs-basics-md.mjs",
+    "scrape:nodejs": "node scripts/scrape-nodejs-md.mjs",
+    "scrape:performance": "node scripts/scrape-performance-md.mjs",
+    "scrape:miniprogram": "node scripts/scrape-miniprogram-md.mjs",
+    "scrape:design-patterns": "node scripts/scrape-design-patterns-md.mjs",
+    "scrape:security": "node scripts/scrape-security-md.mjs",
+    "scrape:js-handwrite": "node scripts/scrape-js-handwrite-md.mjs"
+  },
+  "dependencies": {
+    "fuse.js": "^7.5.0",
+    "highlight.js": "^11.11.1",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.18.1",
+    "rehype-highlight": "^7.0.2",
+    "rehype-raw": "^7.0.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "oxlint": "^1.71.0",
+    "playwright": "^1.61.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1"
+  },
+  "optionalDependencies": {
+    "lightningcss-win32-x64-msvc": "^1.33.0"
+  }
+}

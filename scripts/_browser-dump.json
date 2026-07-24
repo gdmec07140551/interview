@@ -1,0 +1,47 @@
+{
+  "dump": {
+    "rootKids": [
+      {
+        "type": "table",
+        "text": "",
+        "depth": 0,
+        "cells": [],
+        "cellTexts": []
+      },
+      {
+        "type": "text",
+        "text": "",
+        "depth": 0
+      }
+    ],
+    "tableKeys": [
+      "type",
+      "comments",
+      "revisions",
+      "hidden",
+      "author",
+      "column_set",
+      "cell_set",
+      "parent_id",
+      "locked",
+      "columns_id",
+      "rows_id"
+    ]
+  },
+  "tableInfo": {
+    "keys": [
+      "type",
+      "comments",
+      "locked",
+      "columns_id",
+      "cell_set",
+      "parent_id",
+      "revisions",
+      "hidden",
+      "author",
+      "rows_id",
+      "column_set"
+    ],
+    "sample": "{\"type\":\"table\",\"comments\":[],\"locked\":false,\"columns_id\":[\"col229afa24-156f-4267-a2ee-8bfa5e9c155f\",\"col722c800c-715a-4ae3-8297-068446684139\",\"col36e9d735-8f88-4d3f-87d4-4c5e7f384a84\"],\"cell_set\":{\"row2d0984ba-29c1-4e69-bc3e-687ec5f89e5ecol36e9d735-8f88-4d3f-87d4-4c5e7f384a84\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"SIYUdZrD0o4KoOx94oHcTHcZnFc\"},\"row582a7d83-76e6-4ac1-a36d-645353ab5e91col229afa24-156f-4267-a2ee-8bfa5e9c155f\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"Gaozd2xzCoBKshxuSW3cEJFpnzl\"},\"row582a7d83-76e6-4ac1-a36d-645353ab5e91col36e9d735-8f88-4d3f-87d4-4c5e7f384a84\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"L2MrdlRA8o9g7cxNXMNct9jZnje\"},\"row5d26cb6d-7e97-4bb0-a19d-771122f2e4c9col36e9d735-8f88-4d3f-87d4-4c5e7f384a84\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"RcVbdS3DFomtoOxj7MXcZd3qnzc\"},\"rowba10967d-350b-476f-b766-2d5b8bcb3536col36e9d735-8f88-4d3f-87d4-4c5e7f384a84\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"ZpZndOXgeo0QEWxr8aXcBKV5nGe\"},\"row1a8cc954-6700-4540-b93a-b03942fc084dcol229afa24-156f-4267-a2ee-8bfa5e9c155f\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"SKg5dy8Ubo63l9xIX9wcSicrn1d\"},\"row5d26cb6d-7e97-4bb0-a19d-771122f2e4c9col229afa24-156f-4267-a2ee-8bfa5e9c155f\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"WU31dogxMohAGCxsa1Ucvq85nIh\"},\"row6674311b-498e-486d-a631-a518634ed5d4col229afa24-156f-4267-a2ee-8bfa5e9c155f\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"PBgpdrqOzo4gYKxaqX1cfGB0ngf\"},\"row582a7d83-76e6-4ac1-a36d-645353ab5e91col722c800c-715a-4ae3-8297-068446684139\":{\"merge_info\":{\"col_span\":1,\"row_span\":1},\"block_id\":\"KQUWdpSQxod4tVxuDhlctLernub\"},\"row6674311b-498e-486d-a631-a518634ed5d4col36e9d735-8f88-4d3f-87d4-4c5e7f384a84\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"Dv8KdYTcFozvVlxVu3lc8Rfjnvb\"},\"row6674311b-498e-486d-a631-a518634ed5d4col722c800c-715a-4ae3-8297-068446684139\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"KGyqd2BZOo66Uqx5F"
+  }
+}

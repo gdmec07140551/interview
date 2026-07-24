@@ -1,0 +1,350 @@
+{
+  "types": {
+    "text": 1539,
+    "divider": 44,
+    "bullet": 341,
+    "code": 434,
+    "heading2": 45,
+    "ordered": 41,
+    "page": 1
+  },
+  "headings": [
+    {
+      "id": "VnbIdvV48oOu1kxw7f8cLHoanvh",
+      "t": "heading2",
+      "text": "1. CSS中的animation、transition、transform有什么区别？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "BFP8d6ZDjoK3bcxoeQGcb1H9nWM",
+      "t": "heading2",
+      "text": "2. 怎么做移动端的样式适配？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "CEIhdoiXeoXXo3xenJucZ3wSnce",
+      "t": "heading2",
+      "text": "3. 相邻的两个inline-block节点为什么会出现间距，该怎么解决？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Q7EudaU0mo67NuxZ6XUcQts6n4g",
+      "t": "heading2",
+      "text": "4. CSS Grid网格布局的基本概念和使用方法？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "GDYCdnE6nojUn5x5WujcAA1tn8c",
+      "t": "heading2",
+      "text": "5. CSS3新增了哪些特性？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "DbrDdJWRzo6FRGxV8SUcyiJlnve",
+      "t": "heading2",
+      "text": "6. CSS实现动画的方式有哪些？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "FxtJdc76ToLyE8xy5vXcFTVVnje",
+      "t": "heading2",
+      "text": "7. 什么是回流和重绘？如何减少回流和重绘？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "EzM8dsIhPoCBnzxsiN7cKM58n8d",
+      "t": "heading2",
+      "text": "8. CSS选择器的优先级是怎样的？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Y555dAKhhoNhCzxM6jTcFDCRnsc",
+      "t": "heading2",
+      "text": "9. 什么是BFC（块级格式化上下文）？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "JvhLdD6g1omG0zxv421cci0Cndc",
+      "t": "heading2",
+      "text": "10. Flexbox布局的主要特性和使用方法？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Kzr9d35dpoXHexx5jLjc3fsLnUd",
+      "t": "heading2",
+      "text": "11. CSS中的position属性有哪些值？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "MPWkdxrdjoHwTaxEbVScXPOJnWh",
+      "t": "heading2",
+      "text": "12. 如何实现元素的水平垂直居中？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "CDmHd2pX4oPzDqxdiKQcStf2n3e",
+      "t": "heading2",
+      "text": "13. CSS盒模型是什么？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "EQfGdArGtoU0jsxMQDyce946nof",
+      "t": "heading2",
+      "text": "14. CSS中的float属性及其清除浮动的方法？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "ADprd5cGJowZG3xkDqVcLLjLnHh",
+      "t": "heading2",
+      "text": "15. CSS中的z-index属性如何工作？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "ANyAduqWMoWQ8ixkfOmcpjESnhb",
+      "t": "heading2",
+      "text": "16. CSS预处理器（Sass/Less）的优势是什么？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "YuzNd5j63oVi7KxXjvNcGZ2Ennd",
+      "t": "heading2",
+      "text": "17. 如何实现响应式设计？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "VjE9d0m8KolcCUxyfgZcGiqnnMb",
+      "t": "heading2",
+      "text": "18. CSS中的伪类和伪元素有什么区别？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "GomNdXEccocs1DxTWCicgPTanl7",
+      "t": "heading2",
+      "text": "19. 什么是CSS Sprites？有什么优缺点？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Itamdc5jqoRcOSxnyaKcDHU3npc",
+      "t": "heading2",
+      "text": "20. CSS中的单位有哪些？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "OB1RdiBIUoEju3xUpbOcaijYnxb",
+      "t": "heading2",
+      "text": "21. 如何实现CSS三角形？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Io7KdMa1ToyocPxOL4lcSnkPn2f",
+      "t": "heading2",
+      "text": "22. CSS中的层叠规则是什么？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "LfcEdUAzoof7UWxwUIqc2yeXnFc",
+      "t": "heading2",
+      "text": "23. 什么是CSS-in-JS？有什么优缺点？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "TTqedzR52omhn3xVSDVcoALGnhh",
+      "t": "heading2",
+      "text": "24. 如何实现CSS动画的性能优化？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "KPK1d6jQwogXBDxizCkchaKqnqd",
+      "t": "heading2",
+      "text": "25. CSS中的@media查询有哪些常用的特性？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Pc07dLeDkonGd1x6uCmceEofnob",
+      "t": "heading2",
+      "text": "26. 如何实现CSS的垂直居中？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "YAHldr2kCogigAx6ewTcQbTyneb",
+      "t": "heading2",
+      "text": "27. CSS中的calc()函数有什么用途？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "EcjwdPXOponABLxLmpwcGkuJnCd",
+      "t": "heading2",
+      "text": "28. 什么是CSS变量（自定义属性）？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "VKzldMbQqoOPpIx0MckccD2Nnod",
+      "t": "heading2",
+      "text": "29. CSS中的object-fit属性有什么作用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "OqAKdnQiLoPA1bxFliJcgafBnff",
+      "t": "heading2",
+      "text": "30. CSS中的clip-path属性如何使用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "THSydRMvfo5goVxqJBdcEcbdnVh",
+      "t": "heading2",
+      "text": "31. 什么是CSS的层叠上下文（Stacking Context）？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "WFXbdSYlVoed7PxtdZ0cJB6hnbd",
+      "t": "heading2",
+      "text": "32. CSS中的contain属性有什么作用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Efyady6OPoK9eRxvlqWc6OM6nLc",
+      "t": "heading2",
+      "text": "33. CSS中的aspect-ratio属性如何使用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "AwRVdrBwUooLnfxxgQ2c4XAcndb",
+      "t": "heading2",
+      "text": "34. CSS中的scroll-behavior属性有什么作用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "YCNAdExewoHF7gxKR2rcYh1pndh",
+      "t": "heading2",
+      "text": "35. 什么是CSS的逻辑属性（Logical Properties）？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "AxnvdG2xKosWpaxU2ONcjGN1ngp",
+      "t": "heading2",
+      "text": "36. CSS中的scroll-snap属性如何实现滚动吸附效果？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "BWTzdPPtNokuzSxqyxpc1Qm1nQf",
+      "t": "heading2",
+      "text": "37. CSS中的@supports规则如何使用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "GeTYd4QTRoARhyxcS04cNJtInrf",
+      "t": "heading2",
+      "text": "38. 什么是CSS的容器查询（Container Queries）？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "G4OGdvKuoocF2yxUz79chHlBnfb",
+      "t": "heading2",
+      "text": "39. CSS中的color()函数和新的颜色空间如何使用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Vkptdk4ORodK9vx9roKcbb59nWd",
+      "t": "heading2",
+      "text": "40. CSS中的:has()伪类选择器如何使用？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "UBwVdF7lYoPUxgx08VzcwSS9n2g",
+      "t": "heading2",
+      "text": "41. CSS中的@layer规则如何管理样式层叠？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "BLC9d8i3Wo1SKAxeBuGcbiqpnyh",
+      "t": "heading2",
+      "text": "42. CSS中的subgrid如何实现嵌套网格布局？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "P5FydapfxoHIiXxKMXRcegrrnTf",
+      "t": "heading2",
+      "text": "43. CSS中的accent-color属性如何自定义表单控件样式？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "Fh7Rd0ydSoPih1xP6AHcaDCjnmf",
+      "t": "heading2",
+      "text": "44. CSS中的@property规则如何定义自定义属性？",
+      "folded": false,
+      "children": []
+    },
+    {
+      "id": "KjR8d1aNeowwF3xIBkTcuV22nYf",
+      "t": "heading2",
+      "text": "45. CSS中的inert属性如何实现元素的惰性状态？",
+      "folded": false,
+      "children": []
+    }
+  ],
+  "rootChildren": [
+    "VnbIdvV48oOu1kxw7f8cLHoanvh",
+    "UK3Ed7T6eoazW0xrdlWcncSanjc",
+    "HwP2dgEHfoyYpdxV2duclv26nXg",
+    "TPWmdUbKZoGl7pxmjZ8caG3lnEf",
+    "U8hBdMsrcolCDKxhblYclhItnoh",
+    "IUbxdxlCOotYJFxgUd2cYKhAned",
+    "N2f3dAHGRoRVfExG0YPcDlJLnbe",
+    "YEdtdsoD5o6HGWxPF0IcUEHonXd",
+    "QoU7ddiVroxnbUxAZzWcfHMAnMf",
+    "KWSqdTyDtorHXxxz7YKcEVyonLh",
+    "K910dXYKAo25jdxY6gYcYtUUnWe",
+    "KZs5dNoYYoBw68xI6zFckoZWnse",
+    "XBksdZ9L2ooC5Txyv2TcgbKEnBe",
+    "Dq1idKaLEo9Mp4xaAJGcrN2UnJe",
+    "Njjhd1MfYo6OCdxE3ivcB5Ufn6Q",
+    "SilpdTib5oTmVmx4ykkcMI3Wnkc",
+    "P18IdnHRQoKQi8xjsJpcHoBAnic",
+    "TOxpdcGZQoorPnxokBacmEyznBh",
+    "TEzLdzfKqouWInxfD8scuCOmnqe",
+    "BFP8d6ZDjoK3bcxoeQGcb1H9nWM"
+  ]
+}
