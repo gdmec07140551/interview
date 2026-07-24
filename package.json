@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:gitee": "tsc -b && vite build --base=/interview/",
+    "deploy:gitee": "npm run build:gitee && npx --yes gh-pages@6 -d dist -o gitee -b gh-pages",
     "lint": "oxlint",
     "preview": "vite preview",
     "scrape": "node scripts/scrape-feishu.mjs",

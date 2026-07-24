@@ -17,6 +17,13 @@ export function getModule(moduleId: string): ModuleMeta | undefined {
   return siteMeta.modules.find((m) => m.id === moduleId)
 }
 
+function withBase(url?: string) {
+  if (!url) return undefined
+  if (/^https?:\/\//i.test(url)) return url
+  const base = import.meta.env.BASE_URL || '/'
+  return `${base}${url.replace(/^\//, '')}`
+}
+
 export function listDocs(): DocEntry[] {
   const entries: DocEntry[] = []
 
@@ -34,7 +41,7 @@ export function listDocs(): DocEntry[] {
         sourceUrl: mod.sourceUrl,
         content,
         path: `/m/${mod.id}/${doc.slug}`,
-        pdfUrl: doc.pdfUrl,
+        pdfUrl: withBase(doc.pdfUrl),
       })
     }
   }
