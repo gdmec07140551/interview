@@ -49,9 +49,11 @@ export function DocPage({ onReadChange }: { onReadChange: () => void }) {
                 </a>
               </>
             )}
-            <a href={doc.sourceUrl} target="_blank" rel="noreferrer" className="source-link">
-              飞书原文
-            </a>
+            {doc.sourceUrl && !doc.sourceUrl.startsWith('/') && (
+              <a href={doc.sourceUrl} target="_blank" rel="noreferrer" className="source-link">
+                飞书原文
+              </a>
+            )}
             <label className="read-toggle">
               <input
                 type="checkbox"

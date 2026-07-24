@@ -13,6 +13,18 @@
       ]
     },
     {
+      "id": "baguwen",
+      "title": "2023前端面试八股文",
+      "sourceUrl": "/baguwen/2023前端面试八股文.pdf",
+      "docs": [
+        {
+          "slug": "index",
+          "title": "PDF 预览",
+          "pdfUrl": "/baguwen/2023前端面试八股文.pdf"
+        }
+      ]
+    },
+    {
       "id": "javascript",
       "title": "JavaScript 系列知识点",
       "sourceUrl": "https://w0hog67yl81.feishu.cn/wiki/NyLwwaMuaihlFikDr7Kcv8ypn2c",
